@@ -4,3 +4,5 @@ client/node_modules/
 .env
 /build
 /dist
+# ignore nested repo backup(s)
+/server/.git-backup
